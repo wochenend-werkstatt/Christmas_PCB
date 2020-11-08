@@ -22,7 +22,7 @@ Features:
 ## More details
 More details about this project: **[Christmas PCB](https://www.instagram.com/p/B6VbiX6IcKh/)**.
 
-Instagram profil: **[@Wochenend_Werkstatt](https://www.instagram.com/wochenend_werkstatt/)**.
+Instagram profile: **[@Wochenend_Werkstatt](https://www.instagram.com/wochenend_werkstatt/)**.
 
 This project is created with https://easyeda.com/ and produced by https://jlcpcb.com/
 
