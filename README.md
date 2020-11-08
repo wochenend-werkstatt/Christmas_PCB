@@ -5,13 +5,14 @@
 
 This is my DIY christmas PCB card:
 
-Every few seconds the running light starts, in between Rudolph's (Rudolph the red nosed reindeer) nose lights up. The red LED on Rudolph's nose is with PWM control. Otherwise the microcontroller is in deep sleep mode and power consumption drops to a few microampre. Thus the battery life is several months (depending on battery quality).
+Every few seconds the running light starts, in between Rudolph's (Rudolph the red nosed reindeer) nose lights up. The red LED on Rudolph's nose is with PWM control. Otherwise the microcontroller is in deep sleep mode (SLEEP_MODE_PWR_DOWN) and power consumption drops to a few microampre. Thus the battery life is several months (depending on battery quality).
+
+→ The design is in German ("Frohe Weihnachten" = "Merry christmas"), but could easily be adapted!
 
 Features:
 * Attiny13a (programmed via Arduino IDE)
 * Ultra low power (Battery runtime ~3-6 month)
 * Battery: CR2032 (also functions as stand)
-
  
 More details about this project: **[Christmas PCB](https://www.instagram.com/p/B6VbiX6IcKh/)**.
 
