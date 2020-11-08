@@ -3,7 +3,7 @@
 ![GitHub](https://img.shields.io/badge/Nerdfactor-100%25-blue?style=plastic)
 ![GitHub](https://img.shields.io/github/license/wochenend-werkstatt/Christmas_PCB?style=plastic)
 
-![GitHub](https://img.shields.io/badge/Instagram-%40wochenend__werksatt-important?style=social&logo=instagram&link=https://www.instagram.com/p/B6VbiX6IcKh/&link=https://www.instagram.com/wochenend_werkstatt/)
+![Twitter URL](https://img.shields.io/twitter/url?label=Instagram&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fwochenend_werkstatt%2F)
 
 This is my DIY christmas PCB card.
 
